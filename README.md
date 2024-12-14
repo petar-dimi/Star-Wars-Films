@@ -30,9 +30,9 @@ To run tests for the app, use the following command:
 npm test
 
 6.Built With:
-React
-Ant Design
-TypeScript
+React,
+Ant Design,
+TypeScript,
 Jest (for testing)
 
 Authors:
